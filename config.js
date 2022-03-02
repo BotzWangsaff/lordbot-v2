@@ -2,32 +2,32 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6288229683561': { // put your number here
-    name: 'Owner Lord Botz',
+  '6285810172953': { // put your number here
+    name: 'Owner I`M 𝚉𝚒𝚍𝚊𝚗',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281392074639': { // put your number here
-    name: 'Agung (Creator2 Botz)',
+  '6289669388474': { // put your number here
+    name: 'Creator2 Botz',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6282179163895': { // put your number here
-    name: 'Andi (Testing Botz',
+  '6282287750102': { // put your number here
+    name: 'Testing Botz',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6287708773367': {
+  '6281317691878': {
     name: 'Lord Botz',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['6288229683561'] // Want some help?
+global.mods = ['6285810172953'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright Lord Botz'
-global.author = 'Lord Botz Best Bot\nCopyright Lord Botz for ©AmmarBN\n*────「 Big Thx For 」────*\n*Allah SWT*\n*Nurutomo*\n*Ariffb*\n*BochilGaming*\n*AmmarBN*\n*games-wabot*\n*wabot-aq*\n*Adiwajshing*\n*Baileys*'
+global.packname = 'Copyright KiritoBot'
+global.author = 'KiritoBot Best Bot\nCopyright KiritoBot for ©KiritoBot\n*────「 Big Thx For 」────*\n*Allah SWT*\n*Nurutomo*\n*Ariffb*\n*BochilGaming*\n*AmmarBN*\n*games-wabot*\n*wabot-aq*\n*Adiwajshing*\n*Baileys*'
 
 global.multiplier = 39 // The higher, The harder levelup
 
